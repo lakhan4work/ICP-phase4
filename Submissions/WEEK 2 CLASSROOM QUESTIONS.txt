@@ -1,0 +1,30 @@
+                                                               WEEK 2 CLASSROOM QUESTIONS
+
+
+
+EASY    Minimum String Length After Removing Substrings leetcodde no 2696
+
+
+https://leetcode.com/problems/minimum-string-length-after-removing-substrings/submissions/1889541150
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+EASY    Make The String Great  leetcodde no 1544
+
+https://leetcode.com/problems/make-the-string-great/submissions/1889602022
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+MEDIUM    Sum of Subarray Minimums  leetcodde no 907 
+
+https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1893802824
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+MEDIUM    Maximum Subarray Min-Product  1856
+
+https://leetcode.com/problems/maximum-subarray-min-product/submissions/1891182234
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+HARD    Minimum Number of Increments on Subarrays to Form a Target Array
