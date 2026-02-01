@@ -1,0 +1,29 @@
+                                                                      WEEK 3 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+EASY LeetCode no   2073. Time Needed to Buy Tickets
+
+
+https://leetcode.com/problems/time-needed-to-buy-tickets/submissions/1898309047
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+1823. Find the Winner of the Circular Game  
+
+https://leetcode.com/problems/find-the-winner-of-the-circular-game/submissions/1902148793
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+3191. Minimum Operations to Make Binary Array Elements Equal to One I
+
+
+https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/submissions/1899461948
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+HARD Leet code no   1696. Jump Game VI
+
+https://leetcode.com/problems/jump-game-vi/submissions/1902737029
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
