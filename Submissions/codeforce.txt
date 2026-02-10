@@ -1,0 +1,38 @@
+problem link : https://codeforces.com/problemset/problem/1829/B
+
+approach : we simply iterate through the arr and find  max consecutive zeroes through max=Math.max(count,max) 
+
+
+code:
+
+
+import java.util.*;
+public class blankspace {
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0){
+            int n=sc.nextInt();
+            int []arr=new int[n];
+            for(int i=0;i<n;i++){
+                arr[i]=sc.nextInt();
+            }
+          int blank=count(arr);
+            System.out.println(blank);
+        }
+    }
+    static int count(int[]arr){
+        int n=arr.length;
+        int max=0;
+        int c=0;
+        for(int i=0;i<n;i++){
+            if (arr[i]!=1) {
+                c++;
+                max=Math.max(max, c);
+            } else {
+                c=0;
+            }
+        }
+        return max;
+    }
+}
